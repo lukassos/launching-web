@@ -10,8 +10,9 @@ const NavBar = () => {
 		<Router>
 	 		<MDBNavbar color="unique-color-dark" dark expand="md">
 		        <MDBNavbarBrand>
-				<img src="https://lupu.space/brand.png" className="z-depth-0"
-				  style={{ height: "35px", padding: 0, margin: 10 }} alt="LuPu Solutions" />
+				<img src="lupu_line_logo_wh.png" className="z-depth-0"
+				  style={{ height: "35px", padding: 0, margin: 10 }} alt="" />
+                LuPu Solutions
 		        </MDBNavbarBrand>
 				<MDBNavbarNav right>
 				<MDBNavItem className="waves-effect waves-light">
